@@ -1,11 +1,11 @@
 
-# Vücut Kitle İndeksi Programı
+# Ortalama Bulma
 
 Android Başlangıç Projesi
 
 ## Amaç
 
-Girilen kullanıcı bilgilerine göre kişinin vücut kitle indeksini hesaplayan program.
+Girilen bilgilere göre dersin ortalaması bulan program.
 
 ### ***********************************************************
 
